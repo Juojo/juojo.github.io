@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'helvetica_neue';
+    src: url('./fonts/helveticaneueltproblkex-webfont.woff2') format('woff2'),
+         url('./fonts/helveticaneueltproblkex-webfont.woff') format('woff');
+    font-weight: bolder;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'helvetica_neue';
+}
