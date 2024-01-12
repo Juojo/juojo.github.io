@@ -1,10 +1,7 @@
-import { useState } from 'react'
 import '../styles/Home.css'
 import logo1000 from '../../public/img/logo/logo1000.png'
 
 function Home() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <div className="home-wrap">
