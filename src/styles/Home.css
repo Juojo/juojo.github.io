@@ -1,0 +1,33 @@
+* {
+    color: var(--main-color);
+}
+
+.home-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--bg-color);
+    height: 100vh;
+}
+
+.logo {
+    width: 100px;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-items {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-items > li {
+    margin-right: 8px;
+    font-weight: bold;
+}

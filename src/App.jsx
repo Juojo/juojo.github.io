@@ -1,12 +1,15 @@
 import { useState } from 'react'
-import './App.css'
+import './styles/App.css'
+//import logo1000 from '../public/img/logo/logo1000.png'
+import Home from './components/Home.jsx'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <h1>My portfolio</h1>
+      <Home className="Home" />
+      <div className="more-space"></div>
     </>
   )
 }
