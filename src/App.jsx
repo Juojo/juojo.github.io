@@ -4,7 +4,7 @@ import Home from './components/Home.jsx'
 function App() {
   return (
     <>
-      <Home className="Home" />
+      <Home />
       <div className="more-space"></div>
     </>
   )
