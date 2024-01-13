@@ -31,3 +31,9 @@
     margin-right: 8px;
     font-weight: bold;
 }
+
+.sticky-nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
