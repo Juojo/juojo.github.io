@@ -1,5 +1,5 @@
 import '../styles/Home.css'
-import logo1000 from '../../public/img/logo/logo1000.png'
+//import logo1000 from '../../public/img/logo/logo1000.png'
 
 function Home() {
   return (
@@ -7,7 +7,7 @@ function Home() {
       <div className="home-wrap">
         <div className="home">
             <h1>jnmrro</h1>
-            <img className='logo' src={logo1000} alt="Logo" />
+            <img className='logo' src='img/logo/logo1000.png' alt="Logo" />
             <nav>
             <ul className='nav-items'>
                 <li><a href="#">Home</a></li>
