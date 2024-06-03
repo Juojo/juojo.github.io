@@ -1,5 +1,5 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Helvetica_mdEx, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -13,3 +13,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+@font-face {
+  font-family: 'Helvetica_mdEx';
+  src: url('assets/fonts/helveticaneueltpromdex-webfont.woff2') format('woff2'),
+       url('assets/fonts/helveticaneueltpromdex-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Helvetica_md';
+  src: url('assets/fonts/helveticaneueltpromd-webfont.woff2') format('woff2'),
+       url('assets/fonts/helveticaneueltpromd-webfont.woff') format('woff');
+}
