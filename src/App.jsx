@@ -1,9 +1,10 @@
 import './styles/App.css'
+import Home from './components/Home.jsx'
 
 function App() {
   return (
     <>
-      <h1>Jnmrro</h1>
+      <Home />
     </>
   )
 }

@@ -1,0 +1,34 @@
+.home-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logoEx {
+    width: 10vw;
+    height: auto;
+    rotate: 180deg;
+}
+
+.title > .logoEx {
+    margin-bottom: -11.5vw;
+}
+
+.title > h1 {
+    font-size: 24vw;
+}
+
+
+
+.home-buttons {
+    display: flex;
+}
