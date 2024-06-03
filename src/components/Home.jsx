@@ -16,6 +16,11 @@ function Home() {
                 <li><button>Video Editor</button></li>
             </ul> */}
 
+            {/* <div className="home-bg">
+                <img src="./img/bg/home-gray.png" alt="" />
+            </div> */}
+            
+
         </div>
       
     </>

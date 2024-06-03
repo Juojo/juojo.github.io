@@ -5,6 +5,9 @@ function App() {
   return (
     <>
       <Home />
+      <div>
+        <p>ASDASD</p>
+      </div>
     </>
   )
 }
