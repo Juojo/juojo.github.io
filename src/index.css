@@ -46,11 +46,11 @@ ul {
   border-color: var(--secondary-font-color);
   color: var(--main-font-color);
 
-  font-family: consolas;
+  font-family: "Roboto Mono", monospace;
   font-weight: 600;
   font-size: 1.5vw;
 
-  width: 13.2vw;
+  width: 13.5vw;
   border-width: 0.16vw;
   border-style: solid;
   border-radius: 300px;
