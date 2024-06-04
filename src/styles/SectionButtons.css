@@ -1,0 +1,12 @@
+.buttons-wrapper {
+    width: 100vw;
+    display: flex;
+}
+
+.buttons-wrapper > li {
+    margin-right: 3%;
+}
+
+.buttons-wrapper > li:last-child {
+    margin-right: 0;
+}
