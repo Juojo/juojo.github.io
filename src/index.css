@@ -4,6 +4,7 @@
   --main-bg-color: #131313;
   --secondary-bg-color: #000;
   --main-font-color: #909A9A;
+  --secondary-font-color: #373737;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -35,4 +36,26 @@ body {
 
 ul {
   list-style: none;
+}
+
+.btn {
+  display: inline-block;
+  text-align: center;
+
+  background-color: #37373779;
+  border-color: var(--secondary-font-color);
+  color: var(--main-font-color);
+
+  font-family: consolas;
+  font-weight: 600;
+  font-size: 1.5vw;
+
+  width: 13.2vw;
+  border-width: 0.16vw;
+  border-style: solid;
+  border-radius: 300px;
+
+  text-decoration: none;
+
+  cursor: pointer;
 }

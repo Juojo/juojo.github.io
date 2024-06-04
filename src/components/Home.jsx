@@ -10,11 +10,11 @@ function Home() {
                 <h1>Jnmrro</h1>
             </div>
 
-            {/* <ul className='home-buttons'>
-                <li><button>Developer</button></li>
-                <li><button>Designer</button></li>
-                <li><button>Video Editor</button></li>
-            </ul> */}
+            <ul className='home-buttons'>
+                <li><a className='btn' href="http://google.com" target="_blank" rel="noopener noreferrer">Developer</a></li>
+                <li><a className='btn' href="http://google.com" target="_blank" rel="noopener noreferrer">Designer</a></li>
+                <li><a className='btn' href="http://google.com" target="_blank" rel="noopener noreferrer">Video Editor</a></li>
+            </ul>
 
             <div className="home-bg">
                 {/* <img src="./img/bg/home-gray.png" alt="" /> */}
