@@ -8,7 +8,7 @@
 
     background: url('./img/bg/home-gray.png') no-repeat;
     background-position: 50% 50%;
-    background-size: 100% 100%;
+    background-size: auto 100%;
 }
 
 .title {
@@ -41,17 +41,5 @@
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    background-color: blue; /* #131313; */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.home-bg > img {
-    width: auto;
-    min-height: 135%;
-    
-    /* max-width: 100%;
-    min-width: 100%; */
-
+    background-color: var(--main-bg-color);
 }

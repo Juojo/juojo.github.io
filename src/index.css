@@ -1,6 +1,10 @@
 :root {
   font-family: Helvetica_mdEx, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
 
+  --main-bg-color: #131313;
+  --secondary-bg-color: #000;
+  --main-font-color: #909A9A;
+
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -25,8 +29,8 @@
 }
 
 body {
-  background-color: #aa3434;
-  color: #909A9A;
+  background-color: var(--secondary-bg-color);
+  color: var(--main-font-color);
 }
 
 ul {
