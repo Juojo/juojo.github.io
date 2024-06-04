@@ -1,0 +1,22 @@
+.contactbar-wrapper {
+    position: fixed;
+    width: 100vw;
+    bottom: 1%;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 600;
+    font-size: 0.75vw;
+}
+
+.contactbar-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactbar-list > li {
+    margin-right: 2%;
+}
+
+.contactbar-list > li:last-child {
+    margin-right: 0;
+}

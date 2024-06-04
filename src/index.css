@@ -34,6 +34,11 @@ body {
   color: var(--main-font-color);
 }
 
+a {
+  text-decoration: none;
+  color: var(--main-font-color);
+}
+
 ul {
   list-style: none;
 }
@@ -54,8 +59,6 @@ ul {
   border-width: 0.16vw;
   border-style: solid;
   border-radius: 300px;
-
-  text-decoration: none;
 
   cursor: pointer;
 }

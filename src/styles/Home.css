@@ -11,6 +11,10 @@
     background-size: auto 125%;
 }
 
+.home-wrapper > header {
+    margin-bottom: 5%;
+}
+
 .title {
     display: flex;
     flex-direction: column;
@@ -21,10 +25,11 @@
     width: 10vw;
     height: auto;
     rotate: 180deg;
+    opacity: 0.85;
 }
 
 .title > .logoEx {
-    margin-bottom: -11.5vw;
+    margin-bottom: -12.4vw;
 }
 
 .title > h1 {
@@ -33,6 +38,7 @@
 
 .home-buttons {
     display: flex;
+    margin-top: -2.5%;
 }
 
 .home-bg {
