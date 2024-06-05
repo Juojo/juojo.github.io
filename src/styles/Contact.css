@@ -1,0 +1,27 @@
+.contact-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+.contact-wrapper > h1 {
+    font-family: Helvetica_mdEx;
+    font-size: 6vw;
+}
+
+.contact-wrapper > h2 {
+    font-family: "Roboto Mono", monospace;
+    font-weight: 400;
+    font-size: 1vw;
+}
+
+.contact-wrapper > h2 {
+    margin-bottom: 20px;
+}
+
+.contact-wrapper > h2 > a {
+    text-decoration: underline;
+}
