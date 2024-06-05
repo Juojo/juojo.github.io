@@ -1,0 +1,44 @@
+.video-wrapper {
+    margin-top: 4vw;
+}
+
+.video-title > h2 {
+    font-size: 8.2vw;
+}
+
+.video-title {
+    margin: 2vw;
+}
+
+.video-gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.video-gallery >.video-mask > a > img {
+    width: 100vw;
+    height: auto;
+}
+
+.video-mask {
+    height: 45vh;
+    width: 100vw;
+    overflow: hidden;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video-mask > a > h3 {
+    z-index: 1;
+    position: absolute;
+    mix-blend-mode: color-dodge;
+    font-size: 4.6vw;
+}
+
+.video-mask > a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

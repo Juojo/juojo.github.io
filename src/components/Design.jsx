@@ -37,9 +37,6 @@ function Design() {
                     <img id='holdme' src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7adcc8192803809.65e1468418cdf.png" alt="" />
                 </div>
 
-                <div className="image-mask">
-                    <img src="" alt="" />
-                </div>
             </div>
 
         </div>
