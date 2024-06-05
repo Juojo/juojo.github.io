@@ -1,3 +1,41 @@
-.design-wrapper > h2 {
-    font-size: 10rem;
+.design-title > h2 {
+    font-size: 8.2vw;
+}
+
+.design-title {
+    margin: 2vw;
+}
+
+.design-gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.design-gallery >.image-mask > img {
+    width: 50vw;
+    height: auto;
+}
+
+.image-mask {
+    height: 13vw;
+    width: 50vw;
+    overflow: hidden;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#wings {
+    margin-top: 41vw;
+    width: 50.2vw;
+}
+
+#nn {
+    margin-top: -31vw;
+    width: 62vw;
+}
+
+#holdme {
+    margin-top: 2vw;
 }

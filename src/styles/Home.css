@@ -38,7 +38,8 @@
 
 .home-buttons {
     display: flex;
-    margin-top: -2.5%;
+    /* margin-top: -2.5%; */
+    margin-top: -3vw;
 }
 
 .home-bg {
