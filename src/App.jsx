@@ -7,7 +7,7 @@ import Video from './components/Video.jsx'
 function App() {
   return (
     <>
-      <ContactBar />
+      <ContactBar contact={true}/>
       <Home />
       <Design />
       <Video />

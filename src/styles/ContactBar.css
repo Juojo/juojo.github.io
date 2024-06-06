@@ -22,3 +22,11 @@
 .contactbar-list > li:last-child {
     margin-right: 0;
 }
+/* 
+#time-display:hover span {
+    display: none;
+}
+
+#time-display:hover::before {
+    content: "GMT-3";
+} */

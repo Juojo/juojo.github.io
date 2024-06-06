@@ -12,6 +12,10 @@
     font-size: 6vw;
 }
 
+.contact-wrapper > h1 > span {
+    font-size: 0.5vw;
+}
+
 .contact-wrapper > h2 {
     font-family: "Roboto Mono", monospace;
     font-weight: 400;
@@ -19,7 +23,7 @@
 }
 
 .contact-wrapper > h2 {
-    margin-bottom: 20px;
+    margin-bottom: 1vw;
 }
 
 .contact-wrapper > h2 > a {
