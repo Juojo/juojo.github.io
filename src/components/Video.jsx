@@ -7,7 +7,7 @@ function Video() {
         <div className='video-wrapper'>
             <div className="video-title">
                 <SectionButtons section={'video'}/>
-                <h2>VIDEO EDITING PROJECTS.</h2> 
+                <h2 id='videoh1'>VIDEO EDITING PROJECTS.</h2> 
             </div>
         
             <div className="video-gallery">

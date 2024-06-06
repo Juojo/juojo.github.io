@@ -12,9 +12,9 @@ function Home() {
                 </div>
 
                 <ul className='home-buttons'>
-                    <li><a className='btn' href="http://www.github.com/juojo" target="_blank" rel="noopener noreferrer">Developer</a></li>
-                    <li><a className='btn' href="http://www.behance.com/jnmrro" target="_blank" rel="noopener noreferrer">Designer</a></li>
-                    <li><a className='btn' href="https://www.youtube.com/channel/UCnm2bHBb70hkYQ814uWc-zw" target="_blank" rel="noopener noreferrer">Video Editor</a></li>
+                    {/* <li><a className='btn' href="http://www.github.com/juojo" target="_blank" rel="noopener noreferrer">Developer</a></li> */}
+                    <li><a className='btn' href="#designh1" >Designer</a></li>
+                    <li><a className='btn' href="#videoh1" >Video Editor</a></li>
                 </ul>
             </header>
             

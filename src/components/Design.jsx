@@ -7,7 +7,7 @@ function Design() {
         <div className='design-wrapper'>
             <div className="design-title">
                 <SectionButtons section={'design'}/>
-                <h2>DESIGN PROJECTS.</h2> 
+                <h2 id='designh1'>DESIGN PROJECTS.</h2> 
             </div>
             
 
