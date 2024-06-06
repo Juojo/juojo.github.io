@@ -8,7 +8,7 @@ function Home() {
             <header>
                 <div className="title">
                     <img className='logoEx' src="./img/logoEx/white-noblur-25.png" alt="logo" />
-                    <h1>Jnmrro</h1>
+                    <h1 className='noselect'>Jnmrro</h1>
                 </div>
 
                 <ul className='home-buttons'>
