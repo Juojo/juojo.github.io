@@ -11,7 +11,7 @@
     flex-wrap: wrap;
 }
 
-.design-gallery >.image-mask > img {
+.image-mask > img {
     width: 50vw;
     height: auto;
 }
