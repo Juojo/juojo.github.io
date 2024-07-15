@@ -26,6 +26,13 @@ function Video() {
                         <h3>North Hills music video</h3>
                     </a>
                 </div>
+
+                <div className="video-mask">
+                    <a href="https://www.youtube.com/watch?v=RZ1NRs_ds-g" target="_blank" rel="noopener noreferrer">
+                        <img src="img/video-th/ocular.png" alt="" />
+                        <h3>Ocular Sounds Ad</h3>
+                    </a>
+                </div>
             </div>
 
         </div>
