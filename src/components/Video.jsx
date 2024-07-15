@@ -3,11 +3,13 @@ import SectionButtons from './SectionButtons.jsx'
 
 function Video() {
   return (
-    <>
+    <>        
         <div className='video-wrapper'>
+            <span id='video-editing-projects'></span>
+
             <div className="video-title">
                 <SectionButtons section={'video'}/>
-                <h2 id='videoh1'>VIDEO EDITING PROJECTS.</h2> 
+                <h2 id=''>VIDEO EDITING PROJECTS.</h2> 
             </div>
         
             <div className="video-gallery">

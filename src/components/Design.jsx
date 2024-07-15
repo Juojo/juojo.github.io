@@ -5,9 +5,11 @@ function Design() {
   return (
     <>
         <div className='design-wrapper'>
+            <span id='design-projects'></span>
+
             <div className="design-title">
                 <SectionButtons section={'design'}/>
-                <h2 id='designh1'>DESIGN PROJECTS.</h2> 
+                <h2 id=''>DESIGN PROJECTS.</h2> 
             </div>
             
 

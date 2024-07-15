@@ -11,10 +11,10 @@ function Home() {
                     <h1 className='noselect'>Jnmrro</h1>
                 </div>
 
-                <ul className='home-buttons'>
-                    {/* <li><a className='btn' href="http://www.github.com/juojo" target="_blank" rel="noopener noreferrer">Developer</a></li> */}
-                    <li><a className='btn' href="#designh1" >Designer</a></li>
-                    <li><a className='btn' href="#videoh1" >Video Editor</a></li>
+                <ul className='home-buttons'>                    
+                    <li><a className='btn' href="#design-projects" >Designer</a></li>
+                    <li><a className='btn' href="#video-editing-projects" >Video Editor</a></li>
+                    <li><a className='btn' href="http://www.github.com/juojo" target="_blank" rel="noopener noreferrer">Developer</a></li>
                 </ul>
             </header>
             
