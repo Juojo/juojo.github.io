@@ -9,6 +9,7 @@ function Contact() {
             <h1>Juan Mar<span className='noselect'> </span>tín Miñarro.</h1>
             <h2><a href="mailto:minarro.juanmartin@gmail.com">minarro.juanmartin@gmail.com</a></h2>
             <h2><a href="https://www.linkedin.com/in/jnmrro/" target="_blank" rel="noopener noreferrer">LinkedIn</a></h2>
+            <h2><a href="https://www.behance.net/jnmrro" target="_blank" rel="noopener noreferrer">Behance</a></h2>
         </div>
     </>
   )
